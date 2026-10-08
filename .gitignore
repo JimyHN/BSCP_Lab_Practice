@@ -1,0 +1,8 @@
+# Estado local: no se comparte
+history.json      # labs que ya te han salido
+session.json      # marca de login confirmado
+groups.json       # tus grupos permitidos
+
+# Python
+__pycache__/
+*.py[cod]
